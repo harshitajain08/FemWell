@@ -18,3 +18,5 @@ Connects users with relevant telehealth services, expert doctors, and wellness p
 
 Deployment:
 https://fabulous-sable-d50cad.netlify.app/
+
+https://fabulous-sable-d50cad.netlify.app/vr-therapy
